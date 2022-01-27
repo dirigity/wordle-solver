@@ -4,7 +4,7 @@ let words = JSON.parse(fs.readFileSync("words.txt"))
 
 //chula
 
-let letrasExcluidas = "cisemt"
+let letrasExcluidas = "cisemt";
 let letrasConocidasSinPosicion =  ["...n.", ".ora.", "....."];
 let letrasConocidasPosicionadas = "ra.on";
 
